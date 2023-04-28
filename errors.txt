@@ -1,0 +1,27 @@
+প্রাকৃতিক need to handle in last step   প্রকৃতি 
+need to handle when no match found
+
+
+
+input  উঠলো
+in checking 1
+উঠল
+['লো', 'ল']
+উঠ
+[]
+
+
+input  সুপ্রাচীন
+ঐ--> ই
+
+input  উঠেছিল
+['ছিল', 'ছি', 'ি', 'ে', 'ছ', 'ল']
+উঠেছিল not in database
+
+সভ্য
+
+replace _ , ;
+
+জরথুস্ত্রীয়
+
+256
