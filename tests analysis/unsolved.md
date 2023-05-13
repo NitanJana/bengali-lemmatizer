@@ -45,3 +45,5 @@ replace _ , ;
 <unsolved> [unsolved] </unsolved>যেখানে not in database\
 <unsolved> [unsolved] </unsolved>তৃতীয়াংশ not in database\
 
+<unsolved> [have to handle manually] </unsolved>দলে -> দেওয়া
+<unsolved> [have to handle manually] </unsolved>করে -> কে
