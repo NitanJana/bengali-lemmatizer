@@ -47,3 +47,5 @@ replace _ , ;
 
 <unsolved> [have to handle manually] </unsolved>দলে -> দেওয়া
 <unsolved> [have to handle manually] </unsolved>করে -> কে
+
+যে,যার,যাচ্ছিল,যাবে,যারা,যাচ্ছে,যা
